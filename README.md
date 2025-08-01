@@ -9,6 +9,13 @@
 
 ---
 
+## 🌟 My Animated Banner
+<p align="center">
+  <img src="https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif" width="100%" />
+</p>
+
+---
+
 ## 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/Adithyankrishna" target="_blank">
@@ -53,13 +60,6 @@
 ## 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 🌟 My Animated Profile Picture
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6XWTxIu9wCpGg/giphy.gif" alt="Animated Profile" width="200" height="200"/>
 </p>
 
 ---
